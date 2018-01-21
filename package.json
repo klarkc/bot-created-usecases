@@ -1,0 +1,23 @@
+{
+  "name": "bot-created-usecases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klarkc/bot-created-usecases.git"
+  },
+  "author": "Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klarkc/bot-created-usecases/issues"
+  },
+  "homepage": "https://github.com/klarkc/bot-created-usecases#readme",
+  "dependencies": {
+    "website-scraper": "^3.3.2",
+    "yargs": "^10.1.1"
+  }
+}
